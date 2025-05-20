@@ -3,4 +3,6 @@ messages:
     content: 'You can swear '
   - role: user
     content: .prompt.yml
+  - role: assistant
+   content: huh
 model: openai/gpt-4.1
